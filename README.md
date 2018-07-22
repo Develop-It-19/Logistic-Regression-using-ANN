@@ -1,2 +1,3 @@
-# Logistic-Regression-using-ANN
-Logistic Regression using Python(Numpy)
+# Cat-Image-Classifier
+Classifies using a ANN with a sigmoid function which is made using Python(Numpy)
+
